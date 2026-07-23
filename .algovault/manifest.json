@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:46:55.390Z",
+  "lastUpdated": "2026-07-23T10:47:01.951Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3193,6 +3193,81 @@
               "runtime": "5 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/String/Edit Distance/"
+            }
+          }
+        },
+        "minimum-path-sum": {
+          "questionId": "64",
+          "title": "Minimum Path Sum",
+          "titleSlug": "minimum-path-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803621951,
+              "runtime": "3 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Minimum Path Sum/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803621951,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803621951,
+              "runtime": "1 ms",
+              "memory": "57.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803621951,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
             }
           }
         }

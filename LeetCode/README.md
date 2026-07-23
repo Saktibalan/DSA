@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803615393" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803621952" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -39,11 +39,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
+| 64 | [Minimum Path Sum](./Array/Minimum%20Path%20Sum/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
@@ -199,6 +202,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
