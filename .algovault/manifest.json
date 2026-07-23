@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:46:44.062Z",
+  "lastUpdated": "2026-07-23T10:46:55.390Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3079,6 +3079,120 @@
               "runtime": "5 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803615390,
+              "runtime": "5 ms",
+              "memory": "58.9 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803615390,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803615390,
+              "runtime": "1 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "sort-list": {
+          "questionId": "148",
+          "title": "Sort List",
+          "titleSlug": "sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Divide and Conquer",
+            "Sorting",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803615390,
+              "runtime": "13 ms",
+              "memory": "55.3 MB",
+              "githubPath": "LeetCode/Linked List/Sort List/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803615390,
+              "runtime": "2 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "edit-distance": {
+          "questionId": "72",
+          "title": "Edit Distance",
+          "titleSlug": "edit-distance",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803615390,
+              "runtime": "5 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/String/Edit Distance/"
             }
           }
         }
