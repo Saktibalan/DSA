@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803594951" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803604065" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,8 +17,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
@@ -139,7 +141,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+| 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 126 | [Word Ladder II](./Hash%20Table/Word%20Ladder%20II/) | Hard |
@@ -162,7 +166,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 25 | [Reverse Nodes in k-Group](./Linked%20List/Reverse%20Nodes%20in%20k-Group/) | Hard |
 | 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
@@ -227,7 +233,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
