@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803498510" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803507628" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
@@ -27,6 +28,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
@@ -78,7 +80,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
+| 1137 | [N-th Tribonacci Number](./Math/N-th%20Tribonacci%20Number/) | Easy |
+| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
+
+</details>
+
+
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 
 </details>
 

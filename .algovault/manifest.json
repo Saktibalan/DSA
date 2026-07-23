@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:44:58.509Z",
+  "lastUpdated": "2026-07-23T10:45:07.627Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -687,6 +687,115 @@
               "runtime": "1 ms",
               "memory": "94.6 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803507627,
+              "runtime": "25 ms",
+              "memory": "76.5 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803507627,
+              "runtime": "45 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803507627,
+              "runtime": "2421 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803507627,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803507627,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "n-th-tribonacci-number": {
+          "questionId": "1137",
+          "title": "N-th Tribonacci Number",
+          "titleSlug": "n-th-tribonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803507627,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/N-th Tribonacci Number/"
             }
           }
         }
