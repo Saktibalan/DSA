@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:46:19.248Z",
+  "lastUpdated": "2026-07-23T10:46:34.949Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2555,6 +2555,378 @@
               "runtime": "4 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "2 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "permutations": {
+          "questionId": "46",
+          "title": "Permutations",
+          "titleSlug": "permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "1 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "0 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "wildcard-matching": {
+          "questionId": "44",
+          "title": "Wildcard Matching",
+          "titleSlug": "wildcard-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Greedy",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "37 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/String/Wildcard Matching/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "0 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "31 ms",
+              "memory": "75.9 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "combination-sum-ii": {
+          "questionId": "40",
+          "title": "Combination Sum II",
+          "titleSlug": "combination-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594948,
+              "runtime": "5 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Combination Sum II/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "2 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "2 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "sudoku-solver": {
+          "questionId": "37",
+          "title": "Sudoku Solver",
+          "titleSlug": "sudoku-solver",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "130 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Sudoku Solver/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "3 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "find-first-and-last-position-of-element-in-sorted-array": {
+          "questionId": "34",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "0 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array": {
+          "questionId": "33",
+          "title": "Search in Rotated Sorted Array",
+          "titleSlug": "search-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "5 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "0 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "substring-with-concatenation-of-all-words": {
+          "questionId": "30",
+          "title": "Substring with Concatenation of All Words",
+          "titleSlug": "substring-with-concatenation-of-all-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "12 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "reverse-nodes-in-k-group": {
+          "questionId": "25",
+          "title": "Reverse Nodes in k-Group",
+          "titleSlug": "reverse-nodes-in-k-group",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Nodes in k-Group/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "21 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "swap-nodes-in-pairs": {
+          "questionId": "24",
+          "title": "Swap Nodes in Pairs",
+          "titleSlug": "swap-nodes-in-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803594949,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
             }
           }
         }
