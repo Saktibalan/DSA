@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:45:51.764Z",
+  "lastUpdated": "2026-07-23T10:46:01.040Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1902,6 +1902,234 @@
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Interleaving String/"
+            }
+          }
+        },
+        "unique-binary-search-trees": {
+          "questionId": "96",
+          "title": "Unique Binary Search Trees",
+          "titleSlug": "unique-binary-search-trees",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
+            }
+          }
+        },
+        "word-ladder": {
+          "questionId": "127",
+          "title": "Word Ladder",
+          "titleSlug": "word-ladder",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "81 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Hash Table/Word Ladder/"
+            }
+          }
+        },
+        "word-ladder-ii": {
+          "questionId": "126",
+          "title": "Word Ladder II",
+          "titleSlug": "word-ladder-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "18 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Hash Table/Word Ladder II/"
+            }
+          }
+        },
+        "unique-binary-search-trees-ii": {
+          "questionId": "95",
+          "title": "Unique Binary Search Trees II",
+          "titleSlug": "unique-binary-search-trees-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Dynamic Programming",
+            "Backtracking",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "4 ms",
+              "memory": "51.7 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Unique Binary Search Trees II/"
+            }
+          }
+        },
+        "restore-ip-addresses": {
+          "questionId": "93",
+          "title": "Restore IP Addresses",
+          "titleSlug": "restore-ip-addresses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "6 ms",
+              "memory": "50.8 MB",
+              "githubPath": "LeetCode/String/Restore IP Addresses/"
+            }
+          }
+        },
+        "reverse-linked-list-ii": {
+          "questionId": "92",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
+            }
+          }
+        },
+        "decode-ways": {
+          "questionId": "91",
+          "title": "Decode Ways",
+          "titleSlug": "decode-ways",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Decode Ways/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "2 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "gray-code": {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "2 ms",
+              "memory": "53.4 MB",
+              "githubPath": "LeetCode/Math/Gray Code/"
+            }
+          }
+        },
+        "binary-tree-maximum-path-sum": {
+          "questionId": "124",
+          "title": "Binary Tree Maximum Path Sum",
+          "titleSlug": "binary-tree-maximum-path-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Binary Tree Maximum Path Sum/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iii": {
+          "questionId": "123",
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "1 ms",
+              "memory": "75.5 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
+            }
+          }
+        },
+        "distinct-subsequences": {
+          "questionId": "115",
+          "title": "Distinct Subsequences",
+          "titleSlug": "distinct-subsequences",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803561040,
+              "runtime": "19 ms",
+              "memory": "54.1 MB",
+              "githubPath": "LeetCode/String/Distinct Subsequences/"
             }
           }
         }
