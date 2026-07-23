@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:44:39.043Z",
+  "lastUpdated": "2026-07-23T10:44:49.472Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -221,6 +221,266 @@
               "runtime": "2 ms",
               "memory": "72.1 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489471,
+              "runtime": "3 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "1558 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "6 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "single-number-iii": {
+          "questionId": "260",
+          "title": "Single Number III",
+          "titleSlug": "single-number-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "7 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Single Number III/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "13 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "1786 ms",
+              "memory": "59.7 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "22 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "integer-break": {
+          "questionId": "343",
+          "title": "Integer Break",
+          "titleSlug": "integer-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Integer Break/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "439 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "search-insert-position": {
+          "questionId": "35",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "0 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "binary-subarrays-with-sum": {
+          "questionId": "930",
+          "title": "Binary Subarrays With Sum",
+          "titleSlug": "binary-subarrays-with-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "2642 ms",
+              "memory": "50.9 MB",
+              "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
+            }
+          }
+        },
+        "contiguous-array": {
+          "questionId": "525",
+          "title": "Contiguous Array",
+          "titleSlug": "contiguous-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803489472,
+              "runtime": "26 ms",
+              "memory": "64.6 MB",
+              "githubPath": "LeetCode/Array/Contiguous Array/"
             }
           }
         }
