@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803489473" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803498510" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,6 +21,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -29,7 +32,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/) | Easy |
+| 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
 
 </details>
 
@@ -52,6 +60,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
+| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+| 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
 
 </details>
 
