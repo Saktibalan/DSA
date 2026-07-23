@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:45:23.579Z",
+  "lastUpdated": "2026-07-23T10:45:32.298Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1153,6 +1153,246 @@
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "3 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "two-sum-ii-input-array-is-sorted": {
+          "questionId": "167",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "2 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
+            }
+          }
+        },
+        "fraction-to-recurring-decimal": {
+          "questionId": "166",
+          "title": "Fraction to Recurring Decimal",
+          "titleSlug": "fraction-to-recurring-decimal",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
+            }
+          }
+        },
+        "compare-version-numbers": {
+          "questionId": "165",
+          "title": "Compare Version Numbers",
+          "titleSlug": "compare-version-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Two Pointers/Compare Version Numbers/"
+            }
+          }
+        },
+        "maximum-gap": {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Bucket Sort",
+            "Radix Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "47 ms",
+              "memory": "91.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Gap/"
+            }
+          }
+        },
+        "find-peak-element": {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "min-stack": {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Design"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "4 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "2 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        },
+        "evaluate-reverse-polish-notation": {
+          "questionId": "150",
+          "title": "Evaluate Reverse Polish Notation",
+          "titleSlug": "evaluate-reverse-polish-notation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803532298,
+              "runtime": "2 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
             }
           }
         }
