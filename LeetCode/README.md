@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803631466" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803637538" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -92,6 +92,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
@@ -165,6 +166,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
+| 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 
 </details>
 
@@ -264,6 +268,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
+| 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 2490 | [Circular Sentence](./String/Circular%20Sentence/) | Easy |
 

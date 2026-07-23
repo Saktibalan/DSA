@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:47:11.464Z",
+  "lastUpdated": "2026-07-23T10:47:17.536Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3383,6 +3383,108 @@
               "runtime": "2 ms",
               "memory": "53.7 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803637536,
+              "runtime": "5 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "remove-duplicate-letters": {
+          "questionId": "316",
+          "title": "Remove Duplicate Letters",
+          "titleSlug": "remove-duplicate-letters",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803637536,
+              "runtime": "1 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Remove Duplicate Letters/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803637536,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803637536,
+              "runtime": "3 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "longest-word-in-dictionary": {
+          "questionId": "720",
+          "title": "Longest Word in Dictionary",
+          "titleSlug": "longest-word-in-dictionary",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803637536,
+              "runtime": "15 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Longest Word in Dictionary/"
             }
           }
         }
