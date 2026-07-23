@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803540393" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803551766" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -27,8 +27,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
@@ -61,6 +65,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
+
+</details>
+
+
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 113 | [Path Sum II](./Backtracking/Path%20Sum%20II/) | Medium |
 
 </details>
 
@@ -103,6 +118,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
+| 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
+| 117 | [Populating Next Right Pointers in Each Node II](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/) | Medium |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
 | 147 | [Insertion Sort List](./Linked%20List/Insertion%20Sort%20List/) | Medium |
 
@@ -154,6 +173,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 2490 | [Circular Sentence](./String/Circular%20Sentence/) | Easy |
@@ -167,6 +187,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
+| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
+| 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
+| 107 | [Binary Tree Level Order Traversal II](./Tree/Binary%20Tree%20Level%20Order%20Traversal%20II/) | Medium |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 
 </details>
