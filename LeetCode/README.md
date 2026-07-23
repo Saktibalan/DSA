@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803627406" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803631466" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -81,6 +81,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
@@ -148,6 +149,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
@@ -173,6 +175,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |

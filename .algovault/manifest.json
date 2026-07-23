@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:47:07.395Z",
+  "lastUpdated": "2026-07-23T10:47:11.464Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3324,6 +3324,65 @@
               "runtime": "4 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803631464,
+              "runtime": "2 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803631464,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803631464,
+              "runtime": "2 ms",
+              "memory": "53.7 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
         }
