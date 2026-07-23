@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:47:01.951Z",
+  "lastUpdated": "2026-07-23T10:47:07.395Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3268,6 +3268,62 @@
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803627394,
+              "runtime": "8 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "permutations-ii": {
+          "questionId": "47",
+          "title": "Permutations II",
+          "titleSlug": "permutations-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803627394,
+              "runtime": "581 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Permutations II/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803627395,
+              "runtime": "4 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
         }

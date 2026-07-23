@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803621952" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803627406" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -37,7 +37,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
+| 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
@@ -241,6 +243,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
