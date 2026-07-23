@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:45:32.298Z",
+  "lastUpdated": "2026-07-23T10:45:40.391Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1393,6 +1393,217 @@
               "runtime": "2 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
+            }
+          }
+        },
+        "insertion-sort-list": {
+          "questionId": "147",
+          "title": "Insertion Sort List",
+          "titleSlug": "insertion-sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "18 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Linked List/Insertion Sort List/"
+            }
+          }
+        },
+        "lru-cache": {
+          "questionId": "146",
+          "title": "LRU Cache",
+          "titleSlug": "lru-cache",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "33 ms",
+              "memory": "129.3 MB",
+              "githubPath": "LeetCode/Hash Table/LRU Cache/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "2 ms",
+              "memory": "49.3 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
+            }
+          }
+        },
+        "linked-list-cycle-ii": {
+          "questionId": "142",
+          "title": "Linked List Cycle II",
+          "titleSlug": "linked-list-cycle-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
+            }
+          }
+        },
+        "copy-list-with-random-pointer": {
+          "questionId": "138",
+          "title": "Copy List with Random Pointer",
+          "titleSlug": "copy-list-with-random-pointer",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "0 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Hash Table/Copy List with Random Pointer/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "2 ms",
+              "memory": "118.7 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "clone-graph": {
+          "questionId": "133",
+          "title": "Clone Graph",
+          "titleSlug": "clone-graph",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "25 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Hash Table/Clone Graph/"
+            }
+          }
+        },
+        "palindrome-partitioning": {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "4 ms",
+              "memory": "59.6 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning/"
+            }
+          }
+        },
+        "surrounded-regions": {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "2 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Surrounded Regions/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803540391,
+              "runtime": "38 ms",
+              "memory": "95.8 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
             }
           }
         }
