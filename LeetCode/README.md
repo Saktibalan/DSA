@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803637538" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/ourTPmq9sZ?theme=tokyonight&show=graph,recent&v=1784803647754" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -269,6 +269,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 2490 | [Circular Sentence](./String/Circular%20Sentence/) | Easy |
 
@@ -299,6 +300,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 165 | [Compare Version Numbers](./Two%20Pointers/Compare%20Version%20Numbers/) | Medium |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
