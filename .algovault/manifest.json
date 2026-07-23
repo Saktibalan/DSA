@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T10:46:01.040Z",
+  "lastUpdated": "2026-07-23T10:46:06.172Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2130,6 +2130,99 @@
               "runtime": "19 ms",
               "memory": "54.1 MB",
               "githubPath": "LeetCode/String/Distinct Subsequences/"
+            }
+          }
+        },
+        "partition-list": {
+          "questionId": "86",
+          "title": "Partition List",
+          "titleSlug": "partition-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803566172,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Linked List/Partition List/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list-ii": {
+          "questionId": "82",
+          "title": "Remove Duplicates from Sorted List II",
+          "titleSlug": "remove-duplicates-from-sorted-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803566172,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List II/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803566172,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803566172,
+              "runtime": "0 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784803566172,
+              "runtime": "152 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
             }
           }
         }
